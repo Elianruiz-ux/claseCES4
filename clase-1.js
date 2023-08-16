@@ -7,7 +7,7 @@ console.log(typeof name);
 
 function suma() {
   const edad = 20;
-    
+
   if (true) {
     const edad = 30;
     console.log(edad);
