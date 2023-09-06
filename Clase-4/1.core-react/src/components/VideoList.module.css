@@ -1,0 +1,6 @@
+.container {
+    padding: 0.5rem;
+    border: 2px solid var(--color-ff0000);
+    margin: 0.5rem 0;
+  }
+  
