@@ -12,7 +12,7 @@ function App() {
       <div className={style.appwrapper}>
         <Header></Header>
         <Form input={input} setInput={setInput} list={list} setList={setList} />
-        <Todolist list={list}></Todolist>
+        <Todolist list={list} setList={setList}></Todolist>
       </div>
     </div>
   );

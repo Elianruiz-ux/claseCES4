@@ -1,3 +1,16 @@
 .todoItem {
   color: #fff;
 }
+
+.todoItem button {
+  padding: 15px;
+  font-size: 20px;
+  border: 0;
+  color: burlywood;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.todoItem button::first-letter {
+  text-transform: uppercase;
+}
